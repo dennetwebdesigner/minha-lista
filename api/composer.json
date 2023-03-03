@@ -1,0 +1,24 @@
+{
+  "name": "mylist/mylist",
+  "type": "project",
+  "description": "List of Animes, Series and Movies.",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mylist\\Mylist\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "dennetwebdesigner",
+      "email": "dennetwebdesigner@gmail.com",
+      "role": "Software Developer"
+    },
+    {
+      "name": "ck61mach",
+      "email": "jvmldev@gmail.com",
+      "role": "Software Developer"
+    }
+  ],
+  "require": {}
+}
